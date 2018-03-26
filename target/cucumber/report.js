@@ -28,7 +28,7 @@ formatter.match({
   "location": "StepDef.goToFacebook()"
 });
 formatter.result({
-  "duration": 17828920725,
+  "duration": 12988430667,
   "status": "passed"
 });
 formatter.scenario({
@@ -53,12 +53,12 @@ formatter.scenario({
 });
 formatter.step({
   "line": 11,
-  "name": "I enter username as \"TOM\"",
+  "name": "I enter username as \"TOM1\"",
   "keyword": "When "
 });
 formatter.step({
   "line": 12,
-  "name": "I enter password as \"JERRY\"",
+  "name": "I enter password as \"JERRY1\"",
   "keyword": "And "
 });
 formatter.step({
@@ -69,38 +69,38 @@ formatter.step({
 formatter.match({
   "arguments": [
     {
-      "val": "TOM",
+      "val": "TOM1",
       "offset": 21
     }
   ],
   "location": "StepDef.enterUsername(String)"
 });
 formatter.result({
-  "duration": 260751551,
+  "duration": 450357669,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "JERRY",
+      "val": "JERRY1",
       "offset": 21
     }
   ],
   "location": "StepDef.enterPassword(String)"
 });
 formatter.result({
-  "duration": 14261272006,
+  "duration": 18994137714,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDef.checkFail()"
 });
 formatter.result({
-  "duration": 17554356,
+  "duration": 2944455397,
   "status": "passed"
 });
 formatter.after({
-  "duration": 2320794650,
+  "duration": 249086851,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -193,7 +193,7 @@ formatter.match({
   "location": "StepDef.goToFacebook()"
 });
 formatter.result({
-  "duration": 6638776190,
+  "duration": 7555901908,
   "status": "passed"
 });
 formatter.scenario({
@@ -241,7 +241,7 @@ formatter.match({
   "location": "StepDef.enterUsername(String)"
 });
 formatter.result({
-  "duration": 194888504,
+  "duration": 195153222,
   "status": "passed"
 });
 formatter.match({
@@ -254,18 +254,18 @@ formatter.match({
   "location": "StepDef.enterPassword(String)"
 });
 formatter.result({
-  "duration": 6359322459,
+  "duration": 6375422362,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDef.checkFail()"
 });
 formatter.result({
-  "duration": 14760490,
+  "duration": 22494192,
   "status": "passed"
 });
 formatter.after({
-  "duration": 2321343331,
+  "duration": 171491961,
   "status": "passed"
 });
 formatter.background({
@@ -290,7 +290,7 @@ formatter.match({
   "location": "StepDef.goToFacebook()"
 });
 formatter.result({
-  "duration": 5912147393,
+  "duration": 7614968244,
   "status": "passed"
 });
 formatter.scenario({
@@ -338,7 +338,7 @@ formatter.match({
   "location": "StepDef.enterUsername(String)"
 });
 formatter.result({
-  "duration": 258465311,
+  "duration": 217618760,
   "status": "passed"
 });
 formatter.match({
@@ -351,18 +351,18 @@ formatter.match({
   "location": "StepDef.enterPassword(String)"
 });
 formatter.result({
-  "duration": 7278443184,
+  "duration": 4097531708,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDef.checkFail()"
 });
 formatter.result({
-  "duration": 22877370,
+  "duration": 16422783,
   "status": "passed"
 });
 formatter.after({
-  "duration": 2322582673,
+  "duration": 2319928222,
   "status": "passed"
 });
 formatter.background({
@@ -387,7 +387,7 @@ formatter.match({
   "location": "StepDef.goToFacebook()"
 });
 formatter.result({
-  "duration": 6616284137,
+  "duration": 8706167674,
   "status": "passed"
 });
 formatter.scenario({
@@ -469,18 +469,18 @@ formatter.match({
   "location": "StepDef.enterData(DataTable)"
 });
 formatter.result({
-  "duration": 1787134617,
+  "duration": 3237961423,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDef.User_registration_should_be_unsuccessful()"
 });
 formatter.result({
-  "duration": 13427491,
+  "duration": 20896902,
   "status": "passed"
 });
 formatter.after({
-  "duration": 2322547178,
+  "duration": 2329622291,
   "status": "passed"
 });
 });
