@@ -8,8 +8,8 @@ Background:
 #Scenario with AND 
 @SmokeTest
 Scenario: Scenario1
-   When I enter username as "TOM"
-   And I enter password as "JERRY" 
+   When I enter username as "TOM1"
+   And I enter password as "JERRY1" 
    Then Login should fail 
 
 #Scenario with BUT 
