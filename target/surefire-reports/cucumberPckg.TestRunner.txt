@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: cucumberPckg.TestRunner
 -------------------------------------------------------------------------------
-Tests run: 19, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 76.917 sec - in cucumberPckg.TestRunner
+Tests run: 19, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 78.605 sec - in cucumberPckg.TestRunner

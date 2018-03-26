@@ -15,8 +15,8 @@ Scenario: Scenario1
 #Scenario with BUT 
 @Regression
 Scenario: Scenario2
-   When I enter username as "TOM1" 
-   And I enter password as "JERRY1" 
+   When I enter username as "TOM" 
+   And I enter password as "JERRY" 
    Then Login should fail 
    But Relogin option should be available
    
